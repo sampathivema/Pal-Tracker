@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Moq;
-using PalTracker;
 using Xunit;
+using PalTracker;
 
 namespace PalTrackerTests
 {
     public class TimeEntryControllerTest
-    {
+    {        
+        
         private readonly TimeEntryController _controller;
         private readonly Mock<ITimeEntryRepository> _repository;
 
