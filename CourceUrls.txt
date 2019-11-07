@@ -1,0 +1,5 @@
+https://courses.education.pivotal.io
+https://login.sys.evans.pal.pivotal.io
+https://apps.sys.evans.pal.pivotal.io
+https://courses.education.pivotal.io/credentials/349803361
+https://circleci.com/dashboard
