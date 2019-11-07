@@ -3,3 +3,4 @@ https://login.sys.evans.pal.pivotal.io
 https://apps.sys.evans.pal.pivotal.io
 https://courses.education.pivotal.io/credentials/349803361
 https://circleci.com/dashboard
+https://app.slack.com/client/T3NCXJGSD/C3PPFJRT8
